@@ -1,6 +1,6 @@
 require_relative '../test_helper'
 
-class TestCheerGenerator < Minitest::Test
+class TestCheer < Minitest::Test
 
   def test_the_test
     assert false
